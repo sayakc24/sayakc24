@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sayak Chakraborty.
-- 👀 I’m interested in Data Analytics, Machine Learning.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data SCience projects.
 - 📫 How to reach me - Email- sayakchakraborty2019@outlook.com
